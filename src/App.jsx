@@ -33,10 +33,9 @@ function App() {
                 src="/src/assets/icon-suvs.svg"
                 alt=""
               />
-              <h1 className="font-semibold text-4xl uppercase my-8">Sedans</h1>
+              <h1 className="font-semibold text-4xl uppercase my-8">SUVs</h1>
               <p className="text-base text-white">
-                Choose a sedan for its affordability and excellent fuel economy.
-                Ideal for cruising in the city or on your next road trip
+              Take an SUV for its spacious interior, power, and versatility. Perfect for your next family vacation and off-road adventures.
               </p>
               <div className="w-50">
                 <p className="btn text-cyan-500 bg-white rounded-3xl">
@@ -53,10 +52,9 @@ function App() {
                 src="/src/assets/icon-luxury.svg"
                 alt=""
               />
-              <h1 className="font-semibold text-4xl uppercase my-8">Sedans</h1>
+              <h1 className="font-semibold text-4xl uppercase my-8">Luxury</h1>
               <p className="text-base text-white">
-                Choose a sedan for its affordability and excellent fuel economy.
-                Ideal for cruising in the city or on your next road trip
+              Cruise in the best car brands without the bloated prices. Enjoy the enhanced comfort of a luxury rental and arrive in style.
               </p>
               <div className="w-50">
                 <p
