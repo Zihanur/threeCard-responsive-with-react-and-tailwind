@@ -18,6 +18,9 @@
   background-color: hsl(31, 77%, 52%);
   padding: 2%;
 }
+.card-logo1{
+  background-color: transparent;
+}
 
 .single-card2{
   background-color: hsl(184, 100%, 22%);

@@ -1,0 +1,6 @@
+[[plugins]]
+  package = "netlify-plugin-inline-source"
+
+[[plugins.inputs]]
+  extensions = ["svg"]
+  templateEngine = "none"

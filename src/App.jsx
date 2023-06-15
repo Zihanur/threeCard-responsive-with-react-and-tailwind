@@ -10,7 +10,7 @@ function App() {
               <img
                 className="card-logo1"
                 style={{ height: "45px", width: "70px" }}
-                src="/src/assets/icon-sedans.svg"
+                src="https://i.ibb.co/6PzPp3j/My-project-1.png"
                 alt=""
               />
               <h1 className="font-semibold text-4xl uppercase my-8">Sedans</h1>
@@ -30,12 +30,13 @@ function App() {
               <img
                 className="card-logo2"
                 style={{ height: "45px", width: "70px" }}
-                src="/src/assets/icon-suvs.svg"
+                src="https://i.ibb.co/DbqTsq7/My-project-2.png"
                 alt=""
               />
               <h1 className="font-semibold text-4xl uppercase my-8">SUVs</h1>
               <p className="text-base text-white">
-              Take an SUV for its spacious interior, power, and versatility. Perfect for your next family vacation and off-road adventures.
+                Take an SUV for its spacious interior, power, and versatility.
+                Perfect for your next family vacation and off-road adventures.
               </p>
               <div className="w-50">
                 <p className="btn text-cyan-500 bg-white rounded-3xl">
@@ -49,12 +50,13 @@ function App() {
               <img
                 className="card-logo3"
                 style={{ height: "45px", width: "70px" }}
-                src="/src/assets/icon-luxury.svg"
+                src="https://i.ibb.co/87DZZqh/icon-suvs-fotor-bg-remover-2023061631524.png"
                 alt=""
               />
               <h1 className="font-semibold text-4xl uppercase my-8">Luxury</h1>
               <p className="text-base text-white">
-              Cruise in the best car brands without the bloated prices. Enjoy the enhanced comfort of a luxury rental and arrive in style.
+                Choose a sedan for its affordability and excellent fuel economy.
+                Ideal for cruising in the city or on your next road trip
               </p>
               <div className="w-50">
                 <p
